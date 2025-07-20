@@ -1,0 +1,27 @@
+.bill-container {
+  padding: 20px;
+  max-width: 700px;
+  margin: auto;
+  background-color: #f4f4f4;
+  border-radius: 8px;
+}
+
+.product-details p {
+  margin: 10px 0;
+}
+
+.bill-container h2{
+  text-align: center;
+}
+
+.add-btn ,.save-btn{
+  margin-left: 20px;
+  padding: 6px 8px;
+}
+.bill-container select{
+  padding: 6px 8px;
+}
+.bill-container input{
+  padding: 6px 8px;
+
+}

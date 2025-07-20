@@ -1,0 +1,48 @@
+.product-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  padding: 20px;
+  justify-content: center;
+  background-color: #f9f9f9;
+}
+
+.product-subcontainer {
+  background-color: white;
+  padding: 16px;
+  width: 200px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  transition: transform 0.2s ease-in-out;
+}
+
+.product-subcontainer:hover {
+  transform: scale(1.05);
+}
+
+.product-subcontainer div {
+  font-size: 18px;
+  font-weight: 600;
+  color: #333;
+}
+
+.product-subcontainer p {
+  font-size: 16px;
+  color: #666;
+  margin-top: 8px;
+}
+.price-input {
+  margin-top: 8px;
+  padding: 6px;
+  font-size: 16px;
+  width: 100%;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  outline: none;
+  transition: border-color 0.3s;
+}
+
+.price-input:focus {
+  border-color: #4caf50;
+}
