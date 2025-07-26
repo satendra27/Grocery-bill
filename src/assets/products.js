@@ -11,7 +11,7 @@ export const products = [
   { id: 10, product_name: "Pisi Black Salt", price: 110 },
   { id: 11, product_name: "Plate", price: 9 },
   { id: 12, product_name: "Polythene", price: 40 },
-  { id: 13, product_name: "Sabut Mirchi", price: 110 },
+  { id: 13, product_name: "Sabut Mirchi", price: 200 },
   { id: 14, product_name: "Sabut Black Salt", price: 110 },
   { id: 15, product_name: "Tandoori Atta", price: 1660 },
   { id: 16, product_name: "Zero Namkeen", price: 110 },
